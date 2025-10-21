@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=#B2D787&height=300&section=header&text=Hi!%20I'm%20Boyoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Hi!%20I'm%20Boyoung&fontSize=90)
 
 
 <!--
