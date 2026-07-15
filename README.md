@@ -2,8 +2,8 @@
 
 **구조와 흐름 속에서 불필요한 작업을 발견하고, 더 단순한 구조로 정리하는 프론트엔드 개발자입니다.**
 
-기능 단위 구현보다, 인증 흐름·상태 관리·UI 구조에서 반복되거나 복잡해진 부분을 원인부터 정리하는 일에 관심이 많아요. <br>
-단순한 최적화 대신 *왜 이런 문제가 생겼는지*를 파고들고, 유지보수 가능한 구조로 다시 그려보는 과정 자체를 즐깁니다.
+인증 흐름·상태 관리·UI 구조에서 반복되거나 복잡해진 부분을 파고들어 정리하는 일에 관심이 많습니다. <br>
+최근에는 이러한 프론트엔드 경험을 바탕으로 Playwright E2E 테스트와 CI 환경을 학습하며, **QA/SDET 관점**으로 검증 범위를 확장하고 있습니다.
 
 ---
 
@@ -21,10 +21,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_CCP-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-99425b?style=flat-square&logo=Jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-46BA4B?style=flat-square&logo=Playwright&logoColor=white)
 
 ---
 
 ### 🚀 Projects
+
+#### [lernbox](https://github.com/osoon9295/lernbox) · 독일어 AI 단어장
+> Playwright · GitHub Actions · Jest · Next.js · 개인프로젝트 · 2026.05 ~ 2026.07
+
+- Playwright 기반 로그인 E2E 테스트 설계 및 구현
+- WebKit 전용 로그인 실패 2건 trace 기반 분석 및 해결
+- 테스트 피라미드 (단위 17개 - 통합 9개 - 컴포넌트 9개 - E2E 9개) 구성
+- 단위·통합·컴포넌트 합계 35개 + E2E 9개. CI에서 push/PR마다 전체 자동 실행
+- 🔗 [배포 사이트](https://lernbox.vercel.app/)
 
 #### [trun](https://github.com/codeit-fesi12-4/trun) · 비정기적 런닝 모임 웹사이트
 > Next.js · Zustand · TanStack Query · 팀장 / 프론트 3명 · 2025.11 ~ 2026.01
@@ -46,9 +57,10 @@
 
 ### 📚 Recently
 
-- 2026.04 · **AWS Certified Cloud Practitioner** 취득
+- 2026.06 · 제61회 SQLD 개발자(SQLD) 취득
+- 2026.04 · AWS Certified Cloud Practitioner 취득
 - 2026.01 · 코드잇 심화 프론트엔드 부트캠프 12기 수료
-- 요즘 관심 · TypeScript 실무 적용, 테스트 코드(Jest/RTL), CI/CD
+- 요즘 관심 · Playwright E2E와 CI를 학습·적용 중
 
 ---
 
