@@ -57,6 +57,7 @@
 
 ### 📚 Recently
 
+- 2026.08 · ISTQB Certified Tester Foundation Level(CTFL) 취득
 - 2026.06 · 제61회 SQLD 개발자(SQLD) 취득
 - 2026.04 · AWS Certified Cloud Practitioner 취득
 - 2026.01 · 코드잇 심화 프론트엔드 부트캠프 12기 수료
