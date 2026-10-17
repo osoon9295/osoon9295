@@ -42,7 +42,7 @@
 
 ### 🔍 QA & Testing Projects
 
-#### [Bizhows QA Portfolio](https://github.com/osoon9295/bizhows-qa-automation) · 이커머스 웹 서비스 QA
+#### [Bizhows QA Portfolio](https://app.notion.com/p/Bizhows-QA-Portfolio-3f98106a6a62801985c3f174f6c8e4b3) · 이커머스 웹 서비스 QA
 
 > Manual Testing · Risk-Based Testing · Test Design · Playwright · TypeScript · 개인 프로젝트 · 2026.09 ~ 2026.10
 
@@ -55,7 +55,7 @@
 - Playwright 기반 상품 검색, 옵션, 수량 경계값, 장바구니 금액 및 주문 정보 검증 자동화
 - Chromium, Firefox, WebKit 환경에서 테스트 실행 및 실패 원인 분석
 
-🔗 [자동화 코드 및 프로젝트 문서](https://github.com/osoon9295/bizhows-qa-automation)
+🔗 [자동화 코드 및 프로젝트 문서](https://github.com/osoon9295/bizhows-qa-automation) · [비즈하우스 포트폴리오](https://app.notion.com/p/Bizhows-QA-Portfolio-3f98106a6a62801985c3f174f6c8e4b3)
 
 #### [lernbox](https://github.com/osoon9295/lernbox) · 독일어 AI 단어장 테스트
 
